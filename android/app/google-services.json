@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720747998211",
+    "project_id": "worqout-poc-dev",
+    "storage_bucket": "worqout-poc-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720747998211:android:c399f3aee93c4c4d7e7236",
+        "android_client_info": {
+          "package_name": "com.ih.pocnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720747998211-j2jcfvf2ba94v8tdj1ebvmoouhibr9dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOf7T0SHthmapSlXkAv5CmYprx-7G8IRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720747998211-j2jcfvf2ba94v8tdj1ebvmoouhibr9dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
